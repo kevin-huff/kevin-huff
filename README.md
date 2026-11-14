@@ -1,15 +1,19 @@
-### Hi, I'm Kevin! 👋🎉
+Hi, I'm Kevin.
 
-🚀 Welcome to my GitHub cosmos! I'm Kevin, a PHP maestro 🎵 and a Drupal artisan in the public sector. But that's just the tip of the iceberg!
+I build software that has to work live, with a chat full of people watching. Most of what's here was made for Twitch streamers and their communities: bots, overlays, queue systems and a few game shows.
 
-👾 I love crafting digital wonders for streamers and their vibrant communities. Here, you'll stumble upon my treasure trove of creations – from whimsical one-offs to nifty tools for friends. 🌟
+Some places to start:
 
-🔧 These days, I'm often seen orchestrating DevOps magic for businesses, streamlining pipelines, and deploying with finesse. My GitHub is a showcase of this journey – where technology meets practical business solutions.
+- The Story Table (https://github.com/kevin-huff/twitch-ai-rpg) runs a live roleplay show on Twitch. Players speak for their own characters, an AI plays the world, and a human director approves every beat before the audience sees it. The server rolls the dice, and the AI can't change a roll.
+- bootcutbot (https://github.com/kevin-huff/bootcutbot) is the bot behind Bootcut, a variety-show board game played on the Abbabox (https://twitch.tv/abbabox) Twitch channel. Chat queues up for turns. A Bluetooth 12-sided die lands on a challenge like "serenade the yoda statue," and the streamer has to do it.
+- tesla-route-66 (https://github.com/kevin-huff/tesla-route-66) turns a Tesla's live telemetry into stream overlays styled like an amber Space-Age mission console. I built it for a Route 66 road trip, and the repo now holds the overlays for a nightly rideshare stream too.
+- EvenTwitchChat (https://github.com/kevin-huff/EvenTwitchChat) puts Twitch chat on the display of Even Realities G2 smart glasses.
+- FREE* Mediashare (https://github.com/kevin-huff/youtube-queue2) is a YouTube queue and game-show kit for streamers, where judges score videos to five decimal places.
 
-🤖 Since chatGPT entered the scene, I've been on a thrilling adventure pushing the boundaries of possibility! Check out my repositories for a sneak peek into this journey.
+In March 2023 I had ChatGPT write most of chatgpt-avatar (https://github.com/kevin-huff/chatgpt-avatar), a stream sidekick that answers out loud when you say "computer." These days I build tools for running teams of AI coding agents. Mission Control (https://github.com/kevin-huff/claude-code-mission-control) is a pane for Claude Code that shows what each agent is doing right now and where the time went. Much of it was built by the agent workflow it monitors. The smaller one, claude-copy (https://github.com/kevin-huff/claude-copy), copies part of a Claude reply into Outlook or Teams with the formatting intact.
 
-🎨 When I'm not coding, you might find me right here at my computer doing other nerd stuff.
+My day job is at Mobomo (https://github.com/mobomo), where I build and run government websites on Drupal and Kubernetes. That work is in private repositories, which is why this page is mostly bots.
 
-💬 Got a cool project idea or just wanna say hi? Feel free to hit me up at kevin@kevinhuff.net
+When I'm not coding, I'm probably still at this computer doing other nerd stuff.
 
-🔍 Explore, enjoy, and let's connect!
+Got a project idea, or just want to say hi? I'm at kevin@kevinhuff.net.
